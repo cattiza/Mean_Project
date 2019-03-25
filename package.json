@@ -1,0 +1,9 @@
+{
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "description": "build my first website",
+  "main": "index.js",
+  "repository": "https://github.com/cattiza/Mean_Project.git",
+  "author": "Tam Nguyen",
+  "license": "Free"
+}
