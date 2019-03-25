@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/cattiza/Mean_Project.git",
   "author": "Tam Nguyen",
-  "license": "Free"
+  "license": "Free",
+  "dependencies": {
+    "git": "^0.1.5"
+  }
 }
